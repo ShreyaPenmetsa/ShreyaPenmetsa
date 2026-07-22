@@ -13,11 +13,11 @@ Currently building **FlowSync**, a self-directed series of product case studies 
 - [FlowSync – Product Analytics Dashboard](https://github.com/ShreyaPenmetsa/flowsync-product-analytics-dashboard) — North Star metrics, KPI dashboards, data-driven recommendations
 - [FlowSync – AI Customer Support Assistant](https://github.com/ShreyaPenmetsa/flowsync-ai-customer-support-assistant) — business analysis, AI workflow design, success metrics
 - [AWS Glue ETL Pipeline Migration](https://github.com/ShreyaPenmetsa/aws-glue-etl-pipeline-migration) — scalable ETL pipelines, data validation
-- [Amazon Redshift Data Model Migration](your-repo-link) — data modeling, stakeholder collaboration
+- [Amazon Redshift Data Model Migration](https://github.com/ShreyaPenmetsa/amazon-redshift-data-model-migration) — data modeling, stakeholder collaboration
 
 #### 🛠️ Skills
 `SQL` `Python` `AWS Glue` `Amazon Redshift` `Amazon S3` `Product Analytics` `Stakeholder Management` `Requirements Gathering` `KPI Development` `Data Visualization`
 
 #### 📫 Connect with me
-[LinkedIn](your-linkedin-url)
+[LinkedIn](www.linkedin.com/in/shreyapenmetsa)
 
