@@ -9,7 +9,7 @@ Currently building **FlowSync**, a self-directed series of product case studies 
 
 #### 📂 Featured Projects
 - [FlowSync – SaaS User Onboarding Optimization](https://github.com/ShreyaPenmetsa/flowsync-saas-onboarding-optimization) — user research, journey mapping, KPI recommendations
-- [FlowSync – Customer Feedback Prioritization](your-repo-link) — stakeholder analysis, impact-effort prioritization, roadmap planning
+- [FlowSync – Customer Feedback Prioritization](https://github.com/ShreyaPenmetsa/flowsync-customer-feedback-prioritization) — stakeholder analysis, impact-effort prioritization, roadmap planning
 - [FlowSync – Product Analytics Dashboard](your-repo-link) — North Star metrics, KPI dashboards, data-driven recommendations
 - [FlowSync – AI Customer Support Assistant](your-repo-link) — business analysis, AI workflow design, success metrics
 - [AWS Glue ETL Pipeline Migration](your-repo-link) — scalable ETL pipelines, data validation
