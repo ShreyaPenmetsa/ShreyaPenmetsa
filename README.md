@@ -19,5 +19,5 @@ Currently building **FlowSync**, a self-directed series of product case studies 
 `SQL` `Python` `AWS Glue` `Amazon Redshift` `Amazon S3` `Product Analytics` `Stakeholder Management` `Requirements Gathering` `KPI Development` `Data Visualization`
 
 #### 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/shreyapenmetsa)
+[LinkedIn](https://www.linkedin.com/in/shreyapenmetsa/?trk=public_profile-settings_edit-profile-content)
 
