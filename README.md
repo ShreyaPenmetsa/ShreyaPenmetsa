@@ -12,7 +12,7 @@ Currently building **FlowSync**, a self-directed series of product case studies 
 - [FlowSync – Customer Feedback Prioritization](https://github.com/ShreyaPenmetsa/flowsync-customer-feedback-prioritization) — stakeholder analysis, impact-effort prioritization, roadmap planning
 - [FlowSync – Product Analytics Dashboard](https://github.com/ShreyaPenmetsa/flowsync-product-analytics-dashboard) — North Star metrics, KPI dashboards, data-driven recommendations
 - [FlowSync – AI Customer Support Assistant](https://github.com/ShreyaPenmetsa/flowsync-ai-customer-support-assistant) — business analysis, AI workflow design, success metrics
-- [AWS Glue ETL Pipeline Migration](your-repo-link) — scalable ETL pipelines, data validation
+- [AWS Glue ETL Pipeline Migration](https://github.com/ShreyaPenmetsa/aws-glue-etl-pipeline-migration) — scalable ETL pipelines, data validation
 - [Amazon Redshift Data Model Migration](your-repo-link) — data modeling, stakeholder collaboration
 
 #### 🛠️ Skills
