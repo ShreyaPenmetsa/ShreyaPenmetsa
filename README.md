@@ -8,7 +8,7 @@ I turn raw data into product decisions. I bring hands-on data engineering experi
 Currently building **FlowSync**, a self-directed series of product case studies covering the analyst-to-PM toolkit: user research, prioritization frameworks, product analytics, and AI-driven workflow design.
 
 #### 📂 Featured Projects
-- [FlowSync – SaaS User Onboarding Optimization](your-repo-link) — user research, journey mapping, KPI recommendations
+- [FlowSync – SaaS User Onboarding Optimization](https://github.com/ShreyaPenmetsa/flowsync-saas-onboarding-optimization) — user research, journey mapping, KPI recommendations
 - [FlowSync – Customer Feedback Prioritization](your-repo-link) — stakeholder analysis, impact-effort prioritization, roadmap planning
 - [FlowSync – Product Analytics Dashboard](your-repo-link) — North Star metrics, KPI dashboards, data-driven recommendations
 - [FlowSync – AI Customer Support Assistant](your-repo-link) — business analysis, AI workflow design, success metrics
